@@ -184,7 +184,7 @@ console.log(Student.courseName());
 
 
 // STEP 11
-// How do arrow functions affect constructor functions?
+// How do arrow functions affect constructor functions? 
 Student.prototype.scope = function () {
   console.log(this);
 };
